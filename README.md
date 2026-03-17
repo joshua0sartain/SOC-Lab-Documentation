@@ -1,5 +1,4 @@
 # SOC-Lab-Documentation
-Joshua Sartains SOC Repository for logging anmd proofs
 
 # SOC.lab — Security Operations Center Lab Documentation and Infrastructure Project
 
